@@ -1,0 +1,260 @@
+U_PLUS	ORG
+U_PLUS store	ORG
+U_PLUS app	APP
+U_PLUS SIM	ORG
+U_PLUS with ID verification	ORG
+U_PLUS bill	ORG
+U_PLUS contract	ORG
+U_PLUS billing support	DEPARTMENT
+U_PLUS service center	ORG
+U_PLUS website	APP
+U_PLUS Request	ORG
+U_PLUS Request a	ORG
+U_PLUS Request a port	ORG
+U_PLUS with	ORG
+U_PLUS with ID	ORG
+U_PLUS store with	ORG
+U_PLUS store with ID	ORG
+U_PLUS offer	ORG
+U_PLUS provides	ORG
+U_PLUS app using	APP
+U_PLUS app using your	APP
+U_PLUS contract Visit	ORG
+U_PLUS contract Visit a	ORG
+U_PLUS store or	ORG
+U_PLUS store or contact	ORG
+U_PLUS app or	APP
+U_PLUS app or add	APP
+U_PLUS registration	ORG
+U_PLUS registration page	ORG
+U_PLUS registration page or	ORG
+U_PLUS bill Contact	ORG
+U_PLUS billing	SERVICE
+U_PLUS billing support provide	DEPARTMENT
+U_PLUS service	ORG
+U_PLUS website mobile	APP
+U_PLUS website mobile app	APP
+U_PLUS store with ID to	ORG
+customer service to suspend	MISC
+priority support	DEPARTMENT
+U_PLUS app using your bank	APP
+account or credit card	SERVICE
+app using your bank	APP
+U_PLUS store or contact customer	ORG
+store or contact customer	MISC
+to cancel a U	MISC
+Enable roaming in the	MISC
+U_PLUS app or add a	APP
+app or add a	APP
+roaming pass for extended	MISC
+U_PLUS SIM / eSIM	ORG
+U_PLUS registration page or follow	ORG
+How do I dispute	MISC
+U_PLUS bill Contact U_PLUS	ORG
+a charge on my	SERVICE
+and submit a dispute	MISC
+billing support	DEPARTMENT
+provide transaction details	SERVICE
+mobile app	APP
+U_PLUS offer hotspot	ORG
+U_PLUS provides hotspot	ORG
+U_PLUS offer device	ORG
+U_PLUS provides device	ORG
+U_PLUS device	ORG
+U_PLUS hotspot	ORG
+U_PLUS number porting	ORG
+include unlimited data	PRODUCT
+U_PLUS international roaming	SERVICE
+U_PLUS device financing	ORG
+U_PLUS device protection	ORG
+U_PLUS customer support chat	DEPARTMENT
+U_PLUS business account setup	SERVICE
+U_PLUS bill payment	SERVICE
+unlimited data	PRODUCT
+U_PLUS offer business	ORG
+U_PLUS offer business account	SERVICE
+U_PLUS offer number	ORG
+U_PLUS offer number porting	ORG
+U_PLUS provides business	ORG
+U_PLUS provides business account	SERVICE
+U_PLUS provides number	ORG
+U_PLUS provides number porting	ORG
+U_PLUS offer customer	ORG
+U_PLUS offer customer support	DEPARTMENT
+U_PLUS provides customer	ORG
+U_PLUS provides customer support	DEPARTMENT
+U_PLUS number	ORG
+U_PLUS number porting Activate	ORG
+U_PLUS offer device protection	ORG
+U_PLUS provides device protection	ORG
+U_PLUS international	ORG
+U_PLUS international roaming Activate	SERVICE
+U_PLUS offer bill	ORG
+U_PLUS offer bill payment	SERVICE
+U_PLUS provides bill	ORG
+U_PLUS provides bill payment	SERVICE
+U_PLUS device financing Activate	ORG
+U_PLUS device protection Activate	ORG
+U_PLUS customer	ORG
+U_PLUS customer support	DEPARTMENT
+U_PLUS offer device financing	ORG
+U_PLUS provides device financing	ORG
+U_PLUS offer international	ORG
+U_PLUS offer international roaming	SERVICE
+U_PLUS provides international	ORG
+U_PLUS provides international roaming	SERVICE
+U_PLUS business	ORG
+U_PLUS business account	SERVICE
+U_PLUS bill payment Activate	SERVICE
+for business account setup	SERVICE
+for bill payment automatically	SERVICE
+U_PLUS offer business account setup	SERVICE
+U_PLUS offer number porting for	ORG
+U_PLUS provides business account setup	SERVICE
+U_PLUS provides number porting options	ORG
+offer business account setup	SERVICE
+provides business account setup	SERVICE
+U_PLUS offer customer support chat	DEPARTMENT
+U_PLUS provides customer support chat	DEPARTMENT
+offer customer support chat	DEPARTMENT
+provides customer support chat	DEPARTMENT
+roaming while roaming	MISC
+Can I use bill	MISC
+payment while roaming	SERVICE
+U_PLUS offer device protection for	ORG
+U_PLUS provides device protection options	ORG
+Activate international roaming via	MISC
+U_PLUS offer bill payment for	SERVICE
+U_PLUS provides bill payment options	SERVICE
+international roaming	MISC
+offer bill payment for	SERVICE
+provides bill payment options	SERVICE
+Is international roaming available	MISC
+Some international roaming offerings	MISC
+unlimited data subject to	PRODUCT
+Is customer support chat	DEPARTMENT
+Some customer support chat	DEPARTMENT
+Is Student Plan available	PRODUCT
+Is business account setup	SERVICE
+Some business account setup	SERVICE
+Student Plan is available	PRODUCT
+financing while roaming	MISC
+U_PLUS hotspot / tethering	ORG
+high-capacity data with possible	MISC
+tethering while roaming	MISC
+account setup while roaming	SERVICE
+Activate customer support chat	DEPARTMENT
+Can I use customer	MISC
+Is Unlimited Data Plan	PRODUCT
+U_PLUS offer device financing for	ORG
+U_PLUS provides device financing options	ORG
+Unlimited Data Plan is	PRODUCT
+customer support chat	DEPARTMENT
+support chat while roaming	DEPARTMENT
+Basic include	MISC
+Is bill payment available	SERVICE
+Some bill payment offerings	SERVICE
+porting while roaming	MISC
+Basic available for foreigners	MISC
+Basic is available with	MISC
+Multi-line Plan include	PRODUCT
+Plus promotions include streaming	PRODUCT
+Some eSIM Tourist Plan	PRODUCT
+The Business Multi-line Plan	PRODUCT
+U_PLUS offer international roaming for	SERVICE
+U_PLUS provides international roaming options	SERVICE
+data with possible speed	MISC
+length for Family Bundle	PRODUCT
+offer international roaming for	MISC
+provides international roaming options	MISC
+with eSIM Tourist Plan	PRODUCT
+for customer support chat	DEPARTMENT
+for international roaming automatically	MISC
+priority customer support	DEPARTMENT
+protection while roaming	MISC
+Family Bundle is available	PRODUCT
+Is Family Bundle available	PRODUCT
+Plus available for foreigners	PRODUCT
+Plus is available with	PRODUCT
+Some Business Multi-line Plan	PRODUCT
+with Business Multi-line Plan	PRODUCT
+Activate business account setup	SERVICE
+Some Family Bundle promotions	PRODUCT
+Some Unlimited Data Plan	PRODUCT
+business account setup	SERVICE
+length for Unlimited Data	PRODUCT
+with Family Bundle	PRODUCT
+with Unlimited Data Plan	PRODUCT
+Bundle include	PRODUCT
+Is eSIM Tourist Plan	PRODUCT
+The Family Bundle includes	PRODUCT
+What does the Family	PRODUCT
+eSIM Tourist Plan is	PRODUCT
+Activate bill payment via	SERVICE
+Does Unlimited Data Plan	PRODUCT
+Unlimited Data Plan provides	PRODUCT
+bill payment	SERVICE
+Plus include unlimited data	PRODUCT
+Data Plan include	PRODUCT
+Does Family Bundle include	PRODUCT
+The Unlimited Data Plan	PRODUCT
+What does the Unlimited	PRODUCT
+Basic include unlimited data	PRODUCT
+data subject to fair	MISC
+Basic promotions include streaming	MISC
+Does Student Plan include	PRODUCT
+Plan include	PRODUCT
+The Student Plan includes	PRODUCT
+unlimited data with fair	PRODUCT
+Business Multi-line Plan is	PRODUCT
+Is Business Multi-line Plan	PRODUCT
+Prime include unlimited data	PRODUCT
+shared family data allowance	PRODUCT
+Business Multi-line Plan provides	PRODUCT
+Does Business Multi-line Plan	PRODUCT
+Does eSIM Tourist Plan	PRODUCT
+Some Student Plan promotions	PRODUCT
+eSIM Tourist Plan provides	PRODUCT
+with Student Plan	PRODUCT
+Plus include	PRODUCT
+The eSIM Tourist Plan	PRODUCT
+Tourist Plan include	PRODUCT
+length for Student Plan	PRODUCT
+includes priority customer support	DEPARTMENT
+Family Bundle provides high-capacity	PRODUCT
+includes shared family data	PRODUCT
+Prime provides unlimited data	PRODUCT
+Tour Pass provides unlimited	PRODUCT
+includes unlimited data with	PRODUCT
+Basic provides unlimited data	PRODUCT
+Plus provides a set	PRODUCT
+Student Plan provides a	PRODUCT
+Basic provides a set	MISC
+Student Plan provides high-capacity	PRODUCT
+Plus provides unlimited data	PRODUCT
+Plus provides high-capacity data	PRODUCT
+data allowance	MISC
+Family Bundle provides unlimited	PRODUCT
+Prime provides high-capacity data	MISC
+Basic provides high-capacity data	MISC
+Family Bundle provides a	PRODUCT
+Student Plan provides unlimited	PRODUCT
+Basic includes free streaming	MISC
+Basic includes portable Wi	MISC
+Basic includes unlimited data	PRODUCT
+Basic includes international call	MISC
+Basic includes shared family	PRODUCT
+Plus includes discounted device	PRODUCT
+Plus includes device installment	PRODUCT
+Prime includes unlimited data	PRODUCT
+Plus includes priority customer	PRODUCT
+Plus includes unlimited data	PRODUCT
+Prime includes priority customer	MISC
+Basic includes discounted device	MISC
+Prime includes shared family	PRODUCT
+Basic includes device installment	MISC
+Plus includes portable Wi	PRODUCT
+Plus includes free streaming	PRODUCT
+Basic includes priority customer	MISC
+Plus includes shared family	PRODUCT
+Plus includes international call	PRODUCT

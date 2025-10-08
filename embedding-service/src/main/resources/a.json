@@ -1,0 +1,45 @@
+{
+  "rowIndex": 9893,
+  "sentenceIndex": 1,
+  "role": "ANSWER",
+  "intent": "",
+  "entities": [
+    {
+      "id": "bundle",
+      "name": "The Family Bundle",
+      "type": "PRODUCT"
+    },
+    {
+      "id": "includes",
+      "name": "includes",
+      "type": "VERB"
+    },
+    {
+      "id": "data",
+      "name": "data",
+      "type": "NOUN"
+    },
+    {
+      "id": "fair",
+      "name": "fair",
+      "type": "ADJ"
+    },
+    {
+      "id": "usage",
+      "name": "usage",
+      "type": "VERB"
+    },
+    {
+      "id": "policy",
+      "name": "policy",
+      "type": "NOUN"
+    },
+    {
+      "id": "device",
+      "name": "device",
+      "type": "NOUN"
+    }
+  ],
+  "actions": [],
+  "relations": []
+}
