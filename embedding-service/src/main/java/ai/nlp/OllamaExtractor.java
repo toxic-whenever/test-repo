@@ -56,7 +56,7 @@ public class OllamaExtractor {
     }
     String path = "D:\\project\\embedding-service\\src\\main\\java\\ai\\nlp\\output\\";
     Path input = Path.of(a.getOrDefault("input", path + "nlp_output_2.jsonl"));
-    Path output = Path.of(a.getOrDefault("output", path + "llm_structured.jsonl"));
+    Path output = Path.of(a.getOrDefault("output", path + "llm_structured_2.jsonl"));
     String model = a.getOrDefault("model", "qwen2.5:7b-instruct-q4_K_M");
     String base = a.getOrDefault("baseUrl", "http://localhost:11434");
     int threads = Integer.parseInt(a.getOrDefault("threads", "8"));
